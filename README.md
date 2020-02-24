@@ -1,0 +1,2 @@
+# ManjaroKDE
+dotfile
