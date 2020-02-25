@@ -1,0 +1,14 @@
+Feb 25 17:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 17:38 : exception: Failed to open '/home/coconut88/.config/mpd/state': No such file or directory
+Feb 25 17:38 : update: added /Ghosts - Jacob Tillberg.mp3
+Feb 25 17:38 : avahi: Service 'Music Player @ coconut88-pc' successfully established.
+Feb 25 17:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 17:39 : exception: Failed to open '/home/coconut88/.config/mpd/state': No such file or directory
+Feb 25 17:39 : avahi: Service 'Music Player @ coconut88-pc' successfully established.
+Feb 25 17:40 : client: [0] opened from [::1]:40840
+Feb 25 17:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 17:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 17:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 25 17:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Feb 25 17:40 : client: [0] closed
+Feb 25 17:42 : player: played "Ghosts - Jacob Tillberg.mp3"

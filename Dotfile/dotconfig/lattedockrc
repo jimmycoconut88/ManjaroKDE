@@ -1,0 +1,26 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 services_deadbeef.desktop
+pluginWhiteList=services,desktopsessions,PowerDevil,calculator,unitconverter,shell,bookmarks,baloosearch,locations
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=DP-1
+11=DP-2
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=Default
+downloadWindowSize=800,550
+lastNonAssignedLayout=Default
+launchers=
+layoutsColumnWidths=
+layoutsWindowSize=700,450
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=1
