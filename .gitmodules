@@ -1,0 +1,3 @@
+[submodule "dotoh-my-zsh"]
+	path = dotoh-my-zsh
+	url = /home/coconut88/Dotfile/dotoh-my-zsh
