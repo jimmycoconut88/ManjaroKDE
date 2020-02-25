@@ -1,6 +1,6 @@
 # ManjaroKDE
 Repository for my personal setting like dotfile and reminders XP
-
+#PLEAZ READ THIS IN RAW UwU
 initializing:
 #grabbing update
 sudo pacman -Syuu
